@@ -5,7 +5,4 @@
 
 I am still in college but i am in my senior year. I have learned quite a bit over the years of studying Cyber Security and i am now ready to get my feet wet in the industry!
 
-<!---
-Niayas/Niayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
